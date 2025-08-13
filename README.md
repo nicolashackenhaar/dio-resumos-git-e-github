@@ -11,7 +11,7 @@ Repositorio para armazenar resumos sobre Git e Github do curso Versionamento de 
 
 |Aulas | Resumos|
 |----|----|
-|Aula 1| [Resumos link](www.google.com)
+|Aula 1| [Resumo link](www.google.com)
 
 ## codigo
 ```
